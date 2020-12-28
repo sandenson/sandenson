@@ -1,3 +1,13 @@
-### Programmer in training: Unreal Engine 4, web full stack development.
+### inTraining: {
+  'Unreal Engine 4',
+  'Full stack development'
+}
 
-### I can barely remember anything about Java and C. I also know some SQL. That is all.
+### knowsSome: {
+  'SQL'
+}
+
+### barelyRemembers: {
+  'Java',
+  'C'
+}
