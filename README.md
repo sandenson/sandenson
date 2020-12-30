@@ -17,6 +17,9 @@
             <img src="https://img.shields.io/badge/JavaScript-968220?style=flat&logo=JavaScript&logoColor=white" />,
             </li>
             <li>
+            <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=Next.js" />,
+            </li>
+            <li>
             <img src="https://img.shields.io/badge/React-191920?style=flat&logoColor=61DBFB&logo=React" />,
             </li>
             <li>
