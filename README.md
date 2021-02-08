@@ -8,6 +8,9 @@
         <li>
         <img src="https://img.shields.io/badge/Unreal_Engine-black?style=flat&logo=Unreal-Engine" />,
         </li>
+        <li>
+        <img src="https://img.shields.io/badge/C%2B%2B-3B0094?style=flat" />,
+        </li>
         <li>fullStackDevelopment: [
           <ul>
             <li>
@@ -42,7 +45,6 @@
         <li>
         <img src="https://img.shields.io/badge/PHP-6F73A7?style=flat&logo=PHP&logoColor=white" />,
         </li>
-        <li>
       </ul>
     ]
     </li>
