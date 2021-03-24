@@ -31,6 +31,12 @@
             <li>
             <img src="https://img.shields.io/badge/CSS3-2862E9?style=flat&logo=CSS3&logoColor=white" />,
             </li>
+            <li>
+            <img src="https://img.shields.io/badge/GraphQL-161f26?style=flat&logoColor=e2009b&logo=GraphQl" />,
+            </li>
+            <li>
+            <img src="https://img.shields.io/badge/Flutter-161f26?style=flat&logoColor=47bfff&logo=Flutter" />,
+            </li>
           </ul>],
         </li>
       </ul>
