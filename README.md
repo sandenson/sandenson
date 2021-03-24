@@ -11,6 +11,9 @@
         <li>
         <img src="https://img.shields.io/badge/C%2B%2B-3B0094?style=flat" />,
         </li>
+        <li>
+        <img src="https://img.shields.io/badge/Flutter-161f26?style=flat&logoColor=47bfff&logo=Flutter" />,
+        </li>
         <li>fullStackDevelopment: [
           <ul>
             <li>
@@ -33,9 +36,6 @@
             </li>
             <li>
             <img src="https://img.shields.io/badge/GraphQL-161f26?style=flat&logoColor=e2009b&logo=GraphQl" />,
-            </li>
-            <li>
-            <img src="https://img.shields.io/badge/Flutter-161f26?style=flat&logoColor=47bfff&logo=Flutter" />,
             </li>
           </ul>],
         </li>
