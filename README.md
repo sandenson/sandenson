@@ -14,7 +14,7 @@
         <li>
         <img src="https://img.shields.io/badge/Flutter-161f26?style=flat&logoColor=47bfff&logo=Flutter" />,
         </li>
-        <li>fullStackDevelopment: [
+        <li>webFullStackDevelopment: [
           <ul>
             <li>
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white" />,
