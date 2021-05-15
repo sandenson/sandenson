@@ -9,7 +9,10 @@
         <img src="https://img.shields.io/badge/Unreal_Engine-black?style=flat&logo=Unreal-Engine" />,
         </li>
         <li>
-        <img src="https://img.shields.io/badge/C%2B%2B-3B0094?style=flat" />,
+        <img src="https://img.shields.io/badge/Cocos_Creator_2D-55C2E1?style=flat&logoColor=000&logo=Cocos" />,
+        </li>
+        <li>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logoColor=fff&logo=C%2B%2B" />,
         </li>
         <li>
         <img src="https://img.shields.io/badge/Flutter-161f26?style=flat&logoColor=47bfff&logo=Flutter" />,
@@ -51,6 +54,12 @@
         <li>
         <img src="https://img.shields.io/badge/PHP-6F73A7?style=flat&logo=PHP&logoColor=white" />,
         </li>
+        <li>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logoColor=fff&logo=Docker" />,
+        </li>
+        <li>
+        <img src="https://img.shields.io/badge/Java-F74141?style=flat&logo=Java" />,
+        </li>
       </ul>
     ]
     </li>
@@ -58,10 +67,7 @@
     barelyRemembers: [
       <ul>
         <li>
-        <img src="https://img.shields.io/badge/Java-F74141?style=flat&logo=Java" />,
-        </li>
-        <li>
-        <img src="https://img.shields.io/badge/C-blue?style=flat" />,
+        <img src="https://img.shields.io/badge/C-blue?style=flat&logo=C" />,
         </li>
       </ul>
     ],
