@@ -75,6 +75,10 @@
   </ul>
   }
   </ul>
-  <img src="https://github-readme-stats.vercel.app/api?username=sandenson&show_icons=true&theme=maroongold">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandenson&theme=maroongold">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sandenson&show_icons=true&theme=maroongold">
+    <br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandenson&theme=maroongold">
+  </div>
 </html>
