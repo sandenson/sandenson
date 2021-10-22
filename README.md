@@ -20,9 +20,6 @@
         <li>
         <img src="https://img.shields.io/badge/JWT-white?style=flat&logoColor=161f26&logo=JsonWebTokens" />,
         </li>
-        <li>
-        <img src="https://img.shields.io/badge/JSON-white?style=flat&logoColor=161f26&logo=JSON" />,
-        </li>
       </ul>
     ],
     </li>
@@ -41,17 +38,29 @@
         <li>
         <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=161f26" />,
         </li>
+        <li>
+        <img src="https://img.shields.io/badge/JSON-white?style=flat&logoColor=161f26&logo=JSON" />,
+        </li>
       </ul>
     ],
+    </li>
+    <li>
+      intermediate: [
+        <ul>
+          <li>
+          <img src="https://img.shields.io/badge/React-white?style=flat&logoColor=161f26&logo=React" />,
+          </li>
+          <li>
+          <img src="https://img.shields.io/badge/MySQL-white?style=flat&logoColor=161f26&logo=MySQL" />,
+          </li>
+        </ul>
+      ]
     </li>
     <li>
     knowsSome: [
       <ul>
         <li>
         <img src="https://img.shields.io/badge/Next.js-white?style=flat&logo=Next.js&logoColor=161f26" />,
-        </li>
-        <li>
-        <img src="https://img.shields.io/badge/React-white?style=flat&logoColor=161f26&logo=React" />,
         </li>
         <li>
         <img src="https://img.shields.io/badge/Flutter-white?style=flat&logoColor=161f26&logo=Flutter" />,
@@ -61,9 +70,6 @@
         </li>
         <li>
         <img src="https://img.shields.io/badge/Cocos_Creator_2D-white?style=flat&logoColor=161f26&logo=Cocos" />,
-        </li>
-        <li>
-        <img src="https://img.shields.io/badge/MySQL-white?style=flat&logoColor=161f26&logo=MySQL" />,
         </li>
         <li>
         <img src="https://img.shields.io/badge/PHP-white?style=flat&logo=PHP&logoColor=161f26" />,
