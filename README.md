@@ -42,6 +42,9 @@
         <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=161f26" />,
         </li>
         <li>
+          <img src="https://img.shields.io/badge/React-white?style=flat&logoColor=161f26&logo=React" />,
+        </li>
+        <li>
         <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=161f26" />,
         </li>
         <li>
@@ -56,9 +59,6 @@
     <li>
       intermediate: [
         <ul>
-          <li>
-          <img src="https://img.shields.io/badge/React-white?style=flat&logoColor=161f26&logo=React" />,
-          </li>
           <li>
           <img src="https://img.shields.io/badge/MySQL-white?style=flat&logoColor=161f26&logo=MySQL" />,
           </li>
