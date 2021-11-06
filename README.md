@@ -1,4 +1,13 @@
 <html>
+  <details>
+    <summary>Show F1 hype</summary>
+    <div align="center" style="margin-top: 100px;">
+      <img src="https://user-images.githubusercontent.com/29125169/140612914-e3737b3c-982c-4cac-a425-1c44318e22b6.png" width=400 />
+    </div>
+  </details
+    
+  <br>
+    
   <ul>
   skills: {
   <ul>
