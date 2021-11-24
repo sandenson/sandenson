@@ -1,8 +1,8 @@
 <html>
   <details>
-    <summary>Show F1 hype</summary>
+    <summary>Show Formula 1 late season hype</summary>
     <div align="center" style="margin-top: 100px;">
-      <img src="https://user-images.githubusercontent.com/29125169/140612914-e3737b3c-982c-4cac-a425-1c44318e22b6.png" width=400 />
+      <img src="https://user-images.githubusercontent.com/29125169/143158243-e50dc64f-6ff7-44f6-ae02-ed9ccd5b354b.jpg" width=400 />
     </div>
   </details
     
