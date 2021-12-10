@@ -1,11 +1,9 @@
 <html>
-  <details>
-    <summary>Show Formula 1 late season hype</summary>
-    <div align="center" style="margin-top: 100px;">
-      <img src="https://user-images.githubusercontent.com/29125169/143158243-e50dc64f-6ff7-44f6-ae02-ed9ccd5b354b.jpg" width=400 />
-    </div>
-  </details
-    
+  <div align="center" style="margin-top: 100px;">
+    <h1>They're TIED! With one race to go! YOU CAN'T MAKE THIS UP!</h1>
+    <img src="https://user-images.githubusercontent.com/29125169/145573089-6db52e74-2a77-48ca-a2e2-7b3408b02a73.png" width=400 />
+  </div>
+
   <br>
     
   <ul>
