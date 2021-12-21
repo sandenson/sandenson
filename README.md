@@ -1,8 +1,5 @@
 <html>
-  <div align="center" style="margin-top: 100px;">
-    <h1>They're TIED! With one race to go! YOU CAN'T MAKE THIS UP!</h1>
-    <img src="https://user-images.githubusercontent.com/29125169/145573089-6db52e74-2a77-48ca-a2e2-7b3408b02a73.png" width=400 />
-  </div>
+  <img src="https://user-images.githubusercontent.com/29125169/146848980-8ab98e92-e138-43ee-bb4e-af0eac11e95d.png" width=400 />
 
   <br>
     
