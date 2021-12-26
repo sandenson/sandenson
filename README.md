@@ -12,16 +12,7 @@
     learning: [ 
       <ul>
         <li>
-        <img src="https://img.shields.io/badge/C%2B%2B-white?style=flat&logoColor=161f26&logo=C%2B%2B" />,
-        </li>
-        <li>
-        <img src="https://img.shields.io/badge/GraphQL-white?style=flat&logoColor=161f26&logo=GraphQl" />,
-        </li>
-        <li>
         <img src="https://img.shields.io/badge/Jest-white?style=flat&logoColor=161f26&logo=Jest" />,
-        </li>
-        <li>
-        <img src="https://img.shields.io/badge/NestJS-white?style=flat&logoColor=161f26&logo=NestJS" />,
         </li>
         <li>
         <img src="https://img.shields.io/badge/JWT-white?style=flat&logoColor=161f26&logo=JsonWebTokens" />,
@@ -58,6 +49,12 @@
         <ul>
           <li>
           <img src="https://img.shields.io/badge/MySQL-white?style=flat&logoColor=161f26&logo=MySQL" />,
+          </li>
+          <li>
+          <img src="https://img.shields.io/badge/GraphQL-white?style=flat&logoColor=161f26&logo=GraphQl" />,
+          </li>
+          <li>
+          <img src="https://img.shields.io/badge/NestJS-white?style=flat&logoColor=161f26&logo=NestJS" />,
           </li>
         </ul>
       ]
