@@ -3,16 +3,7 @@
   skills: {
   <ul>
     <li>
-    learning: [ 
-      <ul>
-        <li>
-        <img src="https://img.shields.io/badge/Jest-white?style=flat&logoColor=161f26&logo=Jest" />,
-        </li>
-        <li>
-        <img src="https://img.shields.io/badge/JWT-white?style=flat&logoColor=161f26&logo=JsonWebTokens" />,
-        </li>
-      </ul>
-    ],
+    learning: [ ],
     </li>
     <li>
     experienced: [
@@ -32,9 +23,6 @@
         <li>
         <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=161f26" />,
         </li>
-        <li>
-        <img src="https://img.shields.io/badge/JSON-white?style=flat&logoColor=161f26&logo=JSON" />,
-        </li>
       </ul>
     ],
     </li>
@@ -50,15 +38,18 @@
           <li>
           <img src="https://img.shields.io/badge/NestJS-white?style=flat&logoColor=161f26&logo=NestJS" />,
           </li>
+          <li>
+          <img src="https://img.shields.io/badge/Next.js-white?style=flat&logo=Next.js&logoColor=161f26" />,
+          </li>
+          <li>
+          <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=161f26" />,
+          </li>
         </ul>
       ]
     </li>
     <li>
     knowsSome: [
       <ul>
-        <li>
-        <img src="https://img.shields.io/badge/Next.js-white?style=flat&logo=Next.js&logoColor=161f26" />,
-        </li>
         <li>
         <img src="https://img.shields.io/badge/Flutter-white?style=flat&logoColor=161f26&logo=Flutter" />,
         </li>
@@ -73,9 +64,6 @@
         </li>
         <li>
         <img src="https://img.shields.io/badge/Docker-white?style=flat&logoColor=161f26&logo=Docker" />,
-        </li>
-        <li>
-        <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=161f26" />,
         </li>
       </ul>
     ]
