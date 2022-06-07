@@ -44,6 +44,9 @@
           <li>
           <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=161f26" />,
           </li>
+          <li>
+          <img src="https://img.shields.io/badge/Quarkus-white?style=flat&logo=Quarkus&logoColor=161f26" />,
+          </li>
         </ul>
       ]
     </li>
