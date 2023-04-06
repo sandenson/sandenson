@@ -59,6 +59,9 @@
           <li>
             <img src="https://img.shields.io/badge/Playwright-white?style=flat&logo=Playwright&logoColor=161f26" />,
           </li>
+          <li>
+            <img src="https://img.shields.io/badge/Apify_Crawlee-white?style=flat&logo=Crawlee&logoColor=161f26" />,
+          </li>
         </ul>
       ]
     </li>
